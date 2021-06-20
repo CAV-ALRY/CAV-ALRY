@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CAV-ALRY
+- 👋 Hi, I’m @CAVALRY
 
 - 👀 I’m interested in discord.py/python
 
